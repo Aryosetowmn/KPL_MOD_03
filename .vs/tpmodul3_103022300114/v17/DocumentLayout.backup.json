@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{46749F19-3480-44A0-A619-4541F06A1C9F}|tpmodul3_103022300114.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46749F19-3480-44A0-A619-4541F06A1C9F}|tpmodul3_103022300114.csproj|d:\\documents\\programmingproject\\vs\\tpmodul3_103022300114\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46749F19-3480-44A0-A619-4541F06A1C9F}|tpmodul3_103022300114.csproj|D:\\Documents\\programmingproject\\vs\\tpmodul3_103022300114\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46749F19-3480-44A0-A619-4541F06A1C9F}|tpmodul3_103022300114.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Documents\\programmingproject\\vs\\tpmodul3_103022300114\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T14:41:02.385Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "ToolTip": "D:\\Documents\\programmingproject\\vs\\tpmodul3_103022300114\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:26:54.089Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-03T14:26:54.089Z"
             }
           ]
         }
