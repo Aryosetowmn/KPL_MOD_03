@@ -1,0 +1,10 @@
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\bin\Debug\tpmodul3_103022300114.exe.config
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\bin\Debug\tpmodul3_103022300114.exe
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\bin\Debug\tpmodul3_103022300114.pdb
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.csproj.AssemblyReference.cache
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.Form1.resources
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.Properties.Resources.resources
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.csproj.GenerateResource.cache
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.csproj.CoreCompileInputs.cache
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.exe
+D:\Documents\programmingproject\vs\tpmodul3_103022300114\obj\Debug\tpmodul3_103022300114.pdb
